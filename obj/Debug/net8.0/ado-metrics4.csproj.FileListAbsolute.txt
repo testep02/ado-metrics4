@@ -1,0 +1,5 @@
+/Users/travisestep/Projects/ado-metrics4/obj/Debug/net8.0/ado-metrics4.csproj.AssemblyReference.cache
+/Users/travisestep/Projects/ado-metrics4/obj/Debug/net8.0/ado-metrics4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/travisestep/Projects/ado-metrics4/obj/Debug/net8.0/ado-metrics4.AssemblyInfoInputs.cache
+/Users/travisestep/Projects/ado-metrics4/obj/Debug/net8.0/ado-metrics4.AssemblyInfo.cs
+/Users/travisestep/Projects/ado-metrics4/obj/Debug/net8.0/ado-metrics4.csproj.CoreCompileInputs.cache
