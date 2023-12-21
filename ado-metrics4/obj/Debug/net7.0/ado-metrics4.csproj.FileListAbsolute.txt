@@ -58,3 +58,4 @@
 /Users/testep/git/ado-metrics4/ado-metrics4/obj/Debug/net7.0/ado-metrics4.pdb
 /Users/testep/git/ado-metrics4/ado-metrics4/obj/Debug/net7.0/ado-metrics4.genruntimeconfig.cache
 /Users/testep/git/ado-metrics4/ado-metrics4/obj/Debug/net7.0/ref/ado-metrics4.dll
+/Users/travisestep/travis-git/ado-metrics4/ado-metrics4/obj/Debug/net7.0/ado-metrics4.pdb

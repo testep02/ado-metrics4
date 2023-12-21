@@ -1,27 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "/Users/testep/git/ado-metrics4/ado-metrics4/ado-metrics4.csproj": {}
+    "/Users/travisestep/travis-git/ado-metrics4/ado-metrics4/ado-metrics4.csproj": {}
   },
   "projects": {
-    "/Users/testep/git/ado-metrics4/ado-metrics4/ado-metrics4.csproj": {
+    "/Users/travisestep/travis-git/ado-metrics4/ado-metrics4/ado-metrics4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/testep/git/ado-metrics4/ado-metrics4/ado-metrics4.csproj",
+        "projectUniqueName": "/Users/travisestep/travis-git/ado-metrics4/ado-metrics4/ado-metrics4.csproj",
         "projectName": "ado-metrics4",
-        "projectPath": "/Users/testep/git/ado-metrics4/ado-metrics4/ado-metrics4.csproj",
-        "packagesPath": "/Users/testep/.nuget/packages/",
-        "outputPath": "/Users/testep/git/ado-metrics4/ado-metrics4/obj/",
+        "projectPath": "/Users/travisestep/travis-git/ado-metrics4/ado-metrics4/ado-metrics4.csproj",
+        "packagesPath": "/Users/travisestep/.nuget/packages/",
+        "outputPath": "/Users/travisestep/travis-git/ado-metrics4/ado-metrics4/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/testep/git/ado-metrics4/NuGet.Config",
-          "/Users/testep/.nuget/NuGet/NuGet.Config"
+          "/Users/travisestep/travis-git/ado-metrics4/NuGet.Config",
+          "/Users/travisestep/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://www.myget.org/f/aspnetwebstacknightlyrelease/": {}
         },
@@ -50,26 +49,7 @@
               "version": "[16.170.0, )"
             }
           },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/Users/travisestep/Library/Caches/VisualStudio/8.0/MSBuild/52575_1/RuntimeIdentifierGraph.json"
         }
       }
     }
